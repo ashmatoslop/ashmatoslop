@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="1308" height="499" alt="image" src="https://github.com/user-attachments/assets/df637f61-eeca-4306-b50b-729cdfc2fd20" />
+
 
 <!--
 **ashmatoslop/ashmatoslop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
